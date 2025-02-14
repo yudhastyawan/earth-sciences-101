@@ -14,6 +14,10 @@ parts:
   - caption: Tentang buku ini
     chapters:
     - file: book/kata-pengantar
+  - caption: Gelombang Dalam Geofisika
+    maxdepth: 2
+    chapters:
+    - file: book/simulasi_1d
   - caption: Visualisasi
     maxdepth: 2
     chapters:
