@@ -18,6 +18,7 @@ parts:
     maxdepth: 2
     chapters:
     - file: book/simulasi_1d
+    - file: book/simulasi_2d
   - caption: Visualisasi
     maxdepth: 2
     chapters:
