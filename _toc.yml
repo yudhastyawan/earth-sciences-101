@@ -19,10 +19,12 @@ parts:
     chapters:
     - file: book/simulasi_1d
     - file: book/simulasi_2d
-  - caption: Visualisasi
+    - file: book/simulasi_solusi
+  - caption: Geostatistika
     maxdepth: 2
     chapters:
     - file: book/interpolasi
+    - file: book/interpolasi_3d
 
 # parts:
 #   - caption: Chapters
