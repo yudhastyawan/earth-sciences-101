@@ -55,7 +55,7 @@ output:
 hasil dari 3 ditambah 5 yaitu 8
 ```
 
-[Live Demo](https://ide.geeksforgeeks.org/WvPSloYyhz){: .btn .fs-5 .mb-4 .mb-md-0 }
+[Live Demo](https://ide.geeksforgeeks.org/WvPSloYyhz)
 
 Pada contoh diatas, dapat dilihat bahwa fungsi `jumlah()` berada di bagian atas fungsi `main()`. Apabila fungsi `jumlah()` ditempatkan di bagian bawah fungsi `main()` maka harus dideklarasikan terlebih dahulu agar apabila fungsi `jumlah()` dipanggil dalam `main()` sehingga `main()` mengetahui bahwa ada fungsi `jumlah()` di lokasi tertentu. Lokasi tersebut bisa di satu file dengan fungsi `main()` atau di file lainnya (pembahasan di file lainnya akan dijelaskan di tulisan-tulisan berikutnya).
 
@@ -98,7 +98,7 @@ output:
 hasil dari 3 ditambah 5 yaitu 8
 ```
 
-[Live Demo](https://ide.geeksforgeeks.org/WCbC5RhCUp){: .btn .fs-5 .mb-4 .mb-md-0 }
+[Live Demo](https://ide.geeksforgeeks.org/WCbC5RhCUp)
 
 ## tipe-tipe argumen/parameter dalam fungsi
 ---
@@ -146,6 +146,6 @@ output:
 hasil dari 3 ditambah 5 yaitu 8
 ```
 
-[Live Demo](https://ide.geeksforgeeks.org/rWYl0cNt9o){: .btn .fs-5 .mb-4 .mb-md-0 }
+[Live Demo](https://ide.geeksforgeeks.org/rWYl0cNt9o)
 
 Penjelasan lebih lanjut terkait pointer dan referensi akan dijelaskan di tulisan-tulisan berikutnya.

@@ -42,7 +42,7 @@ nilai x = 8 lebih kecil dari 10
 nilai x = 9 lebih kecil dari 10
 ```
 
-[Live Demo](https://ide.geeksforgeeks.org/VkecwGFjKG){: .btn .fs-5 .mb-4 .mb-md-0 }
+[Live Demo](https://ide.geeksforgeeks.org/VkecwGFjKG)
 
 ## Perulangan `for`
 ---
@@ -86,7 +86,7 @@ nilai i = 8, nilai x = 10
 nilai i = 9, nilai x = 11
 ```
 
-[Live Demo](https://ide.geeksforgeeks.org/J64QWWkJWW){: .btn .fs-5 .mb-4 .mb-md-0 }
+[Live Demo](https://ide.geeksforgeeks.org/J64QWWkJWW)
 
 ## Perulangan `do ... while ...`
 ---
@@ -128,7 +128,7 @@ x = 8 kurang dari 10
 x = 9 kurang dari 10
 ```
 
-[Live Demo](https://ide.geeksforgeeks.org/lkbJeADeqA){: .btn .fs-5 .mb-4 .mb-md-0 }
+[Live Demo](https://ide.geeksforgeeks.org/lkbJeADeqA)
 
 ## Perulangan bersarang
 ---

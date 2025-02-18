@@ -13,7 +13,6 @@ di [situs](https://www.msys2.org/) resminya, MSYS2 telah memiliki tutorial cara 
 Setelah selesai instalasi, hal pertama yang bisa dilakukan ialah mengecek apakah `gcc` telah terinstal dengan cara memberikan perintah `gcc` di terminal MSYS2
 
 ![pengecekan gcc di MSYS2](https://raw.githubusercontent.com/yudhastyawan/catatan-yudha/refs/heads/gh-pages/assets/images/pemrog_c_01.png)
-{: .text-center }
 
 ## Linux (Ubuntu)
 ---

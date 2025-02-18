@@ -35,4 +35,4 @@ int main() {
 }
 ```
 
-[Live Demo](https://ide.geeksforgeeks.org/C3iZKSlWOp){: .btn .fs-5 .mb-4 .mb-md-0 }
+[Live Demo](https://ide.geeksforgeeks.org/C3iZKSlWOp)
