@@ -25,6 +25,27 @@ parts:
     chapters:
     - file: book/interpolasi
     - file: book/interpolasi_3d
+  - caption: Seismologi
+    maxdepth: 2
+    chapters:
+    - file: book/seismologi/atenuasi
+  - caption: Pemrograman C
+    maxdepth: 2
+    chapters:
+    - file: book/clang/000_pendahuluan
+    - file: book/clang/001_instalasi
+    - file: book/clang/002_penjelasan-program
+    - file: book/clang/003_dasar-sintaks
+    - file: book/clang/004_tipe-data
+    - file: book/clang/005_variabel
+    - file: book/clang/006_operator
+    - file: book/clang/007_kondisi
+    - file: book/clang/008_perulangan
+    - file: book/clang/009_fungsi
+    - file: book/clang/010_pointer
+    - file: book/clang/011_array
+    - file: book/clang/012_string
+    - file: book/clang/013_struct
 
 # parts:
 #   - caption: Chapters
