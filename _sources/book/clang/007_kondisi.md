@@ -36,7 +36,7 @@ output:
 nilai x = 5 lebih besar dari 3
 ```
 
-[Live Demo](https://ide.geeksforgeeks.org/AvleolBbL7){: .btn .fs-5 .mb-4 .mb-md-0 }
+[Live Demo](https://ide.geeksforgeeks.org/AvleolBbL7)
 
 ## Penggunaan `if ... else ...`
 ---
@@ -75,7 +75,7 @@ output:
 nilai x = 2 kurang dari atau sama dengan dari 3
 ```
 
-[Live Demo](https://ide.geeksforgeeks.org/2aDGEpw2yp){: .btn .fs-5 .mb-4 .mb-md-0 }
+[Live Demo](https://ide.geeksforgeeks.org/2aDGEpw2yp)
 
 ## Penggunaan `switch`
 ---
@@ -122,7 +122,7 @@ nilai x sama dengan dua
 nilai x = 2
 ```
 
-[Live Demo](https://ide.geeksforgeeks.org/lVg1ZsJPMS){: .btn .fs-5 .mb-4 .mb-md-0 }
+[Live Demo](https://ide.geeksforgeeks.org/lVg1ZsJPMS)
 
 ## Kondisi bersarang (nested conditions)
 ---

@@ -412,21 +412,12 @@
 <h1>Atenuasi pada gelombang<a class="headerlink" href="#atenuasi-pada-gelombang" title="Link to this heading">#</a></h1>
 <hr class="docutils" />
 <p><strong>Atenuasi</strong> merupakan kondisi dimana sinyal yang terekam pada stasiun mengalami peluruhan amplitude yang diakibatkan oleh medium tempat gelombang tersebut merambat. Secara umum, atenuasi merupakan salah satu parameter dari pengaruh medium yang ikut mempengaruhi perilaku dari sinyal yang mana jika dalam domain frekuensi, sinyal yang terekam pada stasiun merupakan perkalian dari pengaruh sumber gempa <code class="docutils literal notranslate"><span class="pre">S(f)</span></code>, jalur medium merambat <code class="docutils literal notranslate"><span class="pre">B(f)</span></code>, kondisi sekitar stasiun perekaman <code class="docutils literal notranslate"><span class="pre">R(f)</span></code>, dan pengaruh instrumen/alat perekam tersebut <code class="docutils literal notranslate"><span class="pre">I(f)</span></code>. Secara matematisnya dapat dituliskan sebagai berikut:</p>
-<div class="code-example" markdown="1">
-![persamaan sinyal dalam domain frekuensi](https://raw.githubusercontent.com/yudhastyawan/catatan-yudha/6931c1b18228952258df96ee1e0d9d05dee16931/assets/images/atenuasi-1.svg)
-{: .text-center }
-</div>
+<p><img alt="persamaan sinyal dalam domain frekuensi" src="https://raw.githubusercontent.com/yudhastyawan/catatan-yudha/6931c1b18228952258df96ee1e0d9d05dee16931/assets/images/atenuasi-1.svg" /></p>
 <p>Pada persamaan tersebut, atenuasi merupakan bagian dari <code class="docutils literal notranslate"><span class="pre">B(f)</span></code> yang diwakilkan oleh kebalikan dari faktor kualitas <code class="docutils literal notranslate"><span class="pre">Q</span></code>. Sebelum itu, perlu diperhatikan bahwa persamaan tersebut memiliki variabel <code class="docutils literal notranslate"><span class="pre">i</span></code> dan <code class="docutils literal notranslate"><span class="pre">j</span></code> yang mana merupakan index sumber gempa dan stasiun. Dari persamaan tersebut, kita dapat mengetahui bahwa nilai fungsi <code class="docutils literal notranslate"><span class="pre">S(f)</span></code> hanya dipengaruhi oleh kondisi dari gempa tersebut, sehingga jika beberapa stasiun merekam sumber gempa yang sama, maka nilai <code class="docutils literal notranslate"><span class="pre">S(f)</span></code> akan tetap sama di semua stasiun tersebut. Kondisi tersebut dapat diterapkan juga pada <code class="docutils literal notranslate"><span class="pre">R(f)</span></code> dan <code class="docutils literal notranslate"><span class="pre">I(f)</span></code> untuk stasiun yang sama. Lainnya, <code class="docutils literal notranslate"><span class="pre">B(f)</span></code>, memiliki nilai yang berbeda pada setiap pasangan sumber gempa dan stasiun.</p>
 <p>Kembali ke atenuasi, parameter <code class="docutils literal notranslate"><span class="pre">Q</span></code> dijabarkan oleh parameter atenuasi <code class="docutils literal notranslate"><span class="pre">t*</span></code> pada fungsi jalur medium <code class="docutils literal notranslate"><span class="pre">B(f)</span></code> yang secara matematis dapat dituliskan sebagai berikut:</p>
-<div class="code-example" markdown="1">
-![persamaan B(f)](https://raw.githubusercontent.com/yudhastyawan/catatan-yudha/6931c1b18228952258df96ee1e0d9d05dee16931/assets/images/atenuasi-2.svg)
-{: .text-center }
-</div>
+<p><img alt="persamaan B(f)" src="https://raw.githubusercontent.com/yudhastyawan/catatan-yudha/6931c1b18228952258df96ee1e0d9d05dee16931/assets/images/atenuasi-2.svg" /></p>
 <p>dimana <code class="docutils literal notranslate"><span class="pre">t*</span></code> merupakan fungsi dari:</p>
-<div class="code-example" markdown="1">
-![persamaan tstar](https://raw.githubusercontent.com/yudhastyawan/catatan-yudha/6931c1b18228952258df96ee1e0d9d05dee16931/assets/images/atenuasi-3.svg)
-{: .text-center }
-</div>
+<p><img alt="persamaan tstar" src="https://raw.githubusercontent.com/yudhastyawan/catatan-yudha/6931c1b18228952258df96ee1e0d9d05dee16931/assets/images/atenuasi-3.svg" /></p>
 <p>Pada persamaan <code class="docutils literal notranslate"><span class="pre">B(f)</span></code>, didapati variabel <code class="docutils literal notranslate"><span class="pre">f</span></code> yang merupakan nilai rentang frekuensi pada sinyal. Adapun persamaan <code class="docutils literal notranslate"><span class="pre">t*</span></code>, parameter <code class="docutils literal notranslate"><span class="pre">V</span></code> merupakan model kecepatan medium yang dilalui oleh setiap segmen jalur rambatan <code class="docutils literal notranslate"><span class="pre">ds</span></code> gelombang tersebut (<em>raypath</em>).</p>
 </section>
 

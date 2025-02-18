@@ -16,7 +16,7 @@ output:
 hello world!
 ```
 
-[Live Demo](https://ide.geeksforgeeks.org/7RLvziw1p1){: .btn .fs-5 .mb-4 .mb-md-0 }
+[Live Demo](https://ide.geeksforgeeks.org/7RLvziw1p1)
 
 ---
 Ada beberapa komponen penting yang bisa dibagi dari kode tersebut. Hal tersebut ialah:
@@ -32,11 +32,9 @@ Penambahan komentar pada bahasa C tidak akan mengganggu proses program tersebut.
 
 Komentar dalam bahasa C dapat menggunakan `/* ... */` untuk banyak baris atau `// ...` untuk satu baris saja. Namun perlu diingat bahwa saat menulis program, konsistensi dari cara penulisan komentar perlu diperhatikan agar program dapat mudah dibaca. 
 
-<div class="custom-tips" markdown="1">
 **Tips**
 
 Bentuk penulisan komentar pada C maupun C++ dapat mengikuti gaya dari [Doxygen](https://www.doxygen.nl/manual/docblocks.html) untuk konsistensi. Hal ini juga akan membantu dalam mempermudah dokumentasi C atau C++ kedepannya.
-</div>
 
 ## Kompilasi sederhana di bahasa C
 ---
