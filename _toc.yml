@@ -29,6 +29,11 @@ parts:
     maxdepth: 2
     chapters:
     - file: book/seismologi/atenuasi
+  - caption: Deep Learning
+    maxdepth: 2
+    chapters:
+    - file: book/deepl/check_mac
+    - file: book/deepl/learn_001
   - caption: Pemrograman C
     maxdepth: 2
     chapters:
