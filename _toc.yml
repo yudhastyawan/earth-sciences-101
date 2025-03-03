@@ -29,6 +29,7 @@ parts:
     maxdepth: 2
     chapters:
     - file: book/seismologi/atenuasi
+    - file: book/seismologi/fd_hvsr
   - caption: Deep Learning
     maxdepth: 2
     chapters:
